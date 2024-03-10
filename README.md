@@ -1,12 +1,66 @@
-# MarkBruns.github.io
 
-First, we just surf and browse ... yeah, there might be a semblance of a method to our madness googling and wikipeding, but there's not really a formal structure we leave behind ... nothing which can help someone else OR, morely likely, anything that can help US, ourselves, weeks/months/years later, when we need to re-trace our steps and repeat the googling, wikipeding to get back to where we were. 
+CloudKernel is about extremely lightweight, minimal baselayers to comprise a secure RT OS ... it's all about EXTREME SIMPLIFICATION of LAYERS
 
-*At some point, if we don't sink into oblivion, we DECIDE that we are going grow the fritz up and that we are going to grow up as we want to, not to please somebody else ...* 
+Based On The Moby Project
+=========================
 
-As with formal education, we EVENTUALLY learn the importance of going a step beyond not sleeping and paying attention in class -- we eventually begin actually taking and using notes and that means re-factoring, improving and rewriting better notes to teach ourselves [and our future selves] as we study [and revisit topics later] ... AWESOME lists start to make sense for us, not just as lists of stuff to surf, but as study tools to fork and tailor to our own purposes.
+![Moby Project logo](https://github.com/moby/moby/blob/master/docs/static_files/moby-project-logo.png "The Moby Project")
 
-*Then we grow up a bit more, maybe we stumble once or twice, the grade gets steeper in the climb, we adapt our approach to climbing and we realize that more serious climbing is about climbing with others, we must help others ...*
+[Moby](https://github.com/moby) is an open-source project created by Docker to enable and accelerate software containerization.
 
-So we start CURATING our own forks of [AWESOME lists](https://github.com/topics/awesome) ... sorting, stripping down list, eliminating the dead links, marketing bs and other lite chaff, collecting the sample of dots that we will look at much closer ... then we go the source, READ, review cross-refernces, visit the dev community journals, discussion forums and conferences, get a sense of the people involved in order to sift out the weightier dots worthy of digging into in more depth ... then we *do things the hard way*, we IMPLEMENT, test, break, refactor, extend, re-purpose, re-process the dots ... finally, we talk about our own trip through the dots, we ANNOTATE, explain, discuss, contribute, advance ... learning is a matter of attempting to connecting ALL of the dots ... not just the jargon and factoids but also the communities and people who driving the material.
+It provides a "Lego set" of toolkit components, the framework for assembling them into custom container-based systems, and a place for all container enthusiasts and professionals to experiment and exchange ideas.
+
+Components include container build tools such as [buildkit](https://github.com/moby/buildkit) which spawned others like buildah ... a standard container registry architecture ... orchestration tools like [swarmkit](https://github.com/moby/swarmkit)...[containerd](https://containerd.io/docs/)-based [Go runtime](https://pkg.go.dev/github.com/moby/containerd/runtime) and more, and these can be used as building blocks in conjunction with other tools and projects.
+
+![Moby Ecosystem](https://i.stack.imgur.com/EYvfL.jpg "How Moby fits into the Bigger OpenContainers.ORG Initiative")
+
+## Principles
+
+Moby is an open project guided by strong principles, aiming to be modular, flexible and without too strong an opinion on user experience.
+It is open to the community to help set its direction.
+
+- Modular: the project includes lots of components that have well-defined functions and APIs that work together.
+- Batteries included but swappable: Moby includes enough components to build fully featured container systems, but its modular architecture ensures that most of the components can be swapped by different implementations.
+- Usable security: Moby provides secure defaults without compromising usability.
+- Developer focused: The APIs are intended to be functional and useful to build powerful tools.
+They are not necessarily intended as end user tools but as components aimed at developers.
+Documentation and UX is aimed at developers not end users.
+
+## Audience
+
+The Moby Project is intended for engineers, integrators and enthusiasts looking to modify, hack, fix, experiment, invent and build systems based on containers.
+It is not for people looking for a commercially supported system, but for people who want to work and learn with open source code.
+
+## Relationship with Docker
+
+The components and tools in the Moby Project are initially the open source components that Docker and the community have built for the Docker Project.
+New projects can be added if they fit with the community goals. Docker is committed to using Moby as the upstream for the Docker Product.
+However, other projects are also encouraged to use Moby as an upstream, and to reuse the components in diverse ways, and all these uses will be treated in the same way. External maintainers and contributors are welcomed.
+
+The Moby project is not intended as a location for support or feature requests for Docker products, but as a place for contributors to work on open source code, fix bugs, and make the code more useful.
+The releases are supported by the maintainers, community and users, on a best efforts basis only, and are not intended for customers who want enterprise or commercial support; Docker EE is the appropriate product for these use cases.
+
+-----
+
+Legal
+=====
+
+*Brought to you courtesy of our legal counsel. For more context,
+please see the [NOTICE](https://github.com/moby/moby/blob/master/NOTICE) document in this repo.*
+
+Use and transfer of Moby may be subject to certain restrictions by the
+United States and other governments.
+
+It is your responsibility to ensure that your use and/or transfer does not
+violate applicable laws.
+
+For more information, please see https://www.bis.doc.gov
+
+Licensing
+=========
+Moby is licensed under the Apache License, Version 2.0. See
+[LICENSE](https://github.com/moby/moby/blob/master/LICENSE) for the full
+license text.
+
+
 
