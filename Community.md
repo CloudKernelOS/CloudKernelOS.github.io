@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-permalink: /History/
+permalink: /C/
 ---
 
 
