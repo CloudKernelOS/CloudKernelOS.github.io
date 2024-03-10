@@ -1,9 +1,9 @@
 # Site settings
-title: MarkBruns
+title: CloudKernelOS
 email: MarkBruns@MarkBruns.com
-description: An imperfect child of God 🌟 attempting to become an empath🧎🏾 who cannot possibly ever communicate how GRATEFUL he is to his Creator for every moment of his existence! Philippians 4:8-9
-twitter_username: MarkBruns
-github_username:  MarkBruns
+description: Extreme simplification of container layers for improved reliability
+twitter_username: CloudKernelOS
+github_username:  CloudKernelOS
 
 # Build settings
 markdown: kramdown
