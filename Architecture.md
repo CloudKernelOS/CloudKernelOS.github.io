@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mist
-permalink: /Mist/
+title: Architecture
+permalink: /Architecture/
 ---
 
 The CloudKernelOS is architecturally about the initial condensation of MIST.
