@@ -9,7 +9,7 @@ permalink: /Architecture/
 
 ## Precepts
 
-***The CloudKernelOS will be architecturally based upon the theoretical principles of Self-organizing Nervous Systems(SoNS) ... we need to develop those principles.*** 
+***The CloudKernelOS will be architecturally based upon the theoretical principles of Self-organizing Nervous Systems(SoNS) ... we will need to develop those principles; at this time, the following material is only preliminary scribbling that serves as placeholder before we have a core outline that will be developed into a very rough draft.*** 
 
  CloudKernelOS is about [***pheromonic***](https://en.wikipedia.org/wiki/Pheromone) or [***neuromorphic*** computing](https://www.nature.com/articles/s43588-021-00184-y) with evolving [***morphic***](https://www.nature.com/articles/427277b) or noisy [steganographic](https://en.wikipedia.org/wiki/Steganography) communication akin to [electrochemically explorational](https://en.wikipedia.org/wiki/Active_transport) 🍄 [fungal mycellium](https://en.wikipedia.org/wiki/Mycelium) or 🍄 [hyphae](https://en.wikipedia.org/wiki/Hypha) found in 🍄 [mycorrhizal networks](https://en.wikipedia.org/wiki/Mycorrhizal_network) 🍄 for the [semiotic signalling](https://en.wikipedia.org/wiki/Semiotics) that might enabling [complex swarm behaviors](https://en.wikipedia.org/wiki/Swarm_behaviour) in [real-time operating systems](https://en.wikipedia.org/wiki/Real-time_operating_system) of [loosely-networked distributed autonomous robotics](https://danielarus.csail.mit.edu/index.php/category/research/). 🐝
 
