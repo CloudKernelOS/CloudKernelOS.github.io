@@ -6,7 +6,7 @@ permalink: /Contributing/
 
 🐝:construction: 🐝  :construction:  🐝 :construction: 🐝This page is about the ***guidelines*** for any individual who interested contributing directly to the CloudKernelOS project.
 
-First of all, it's important to familiarize yourself with the LARGER [Community of development communities](Community.md) which provide the foundations for the CloudKernelOS project ... you may want to direct your efforts to those project instead of this one.
+First of all, it's important to familiarize yourself with the LARGER [collection of open source development communities](Communities.md) which are providing the foundation for the CloudKernelOS project ... you may want to direct your efforts to those [communities](Communities.md) and their issues and projects instead of this one.
 
 🐝:construction: 🐝  :construction:  🐝 :construction: 🐝
 

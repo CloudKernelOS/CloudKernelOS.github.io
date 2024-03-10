@@ -4,6 +4,12 @@ title: Hardware
 permalink: /Hardware/
 ---
 
+## AWESOME IoT, FPGA, ASIC, SoC, and Embedded Systems
+
+## AWESOME Arduino, Raspberry Pi, BeagleBone, Pine64, and other SBCs
+
+## Awesome Robotics, UAV, UAG and Marine Drones
+
 ## Arduino vs Teensy vs et al
 
 We might ask ["How would Arduino compare to a PJRC Teensy board using ROS 2 with real-time configurations?"](https://g.co/gemini/share/b9a19dfa07e3) OR [How does the PJRC Teensy board stack up against its competition, Arduino, et al?](https://g.co/gemini/share/ad57cf698fe6) In a nutshell the [PJRC Teensy](https://www.pjrc.com/teensy/) has the advantage in terms of technical specifications because of how the Teensy board will significantly outperform most Arduino boards in terms of raw processing power and clock speeds. This is particularly true if we are comparing a Teensy 3.x or 4.x with ARM Cortex-M processors to traditional AVR-based Arduino boards (Uno, Mega, etc.) ... but [the mix keeps changing](https://makezine.com/article/technology/boards-guide-2024-boards-are-back/) and there are boards like the [Arduino GIGA R1 WiFi](https://store-usa.arduino.cc/products/giga-r1-wifi) which are touted as being the most powerful Arduino boards ever, so Arduino cannot be so easily dismissed.
