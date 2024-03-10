@@ -5,4 +5,4 @@ permalink: /Community/
 ---
 
 
-Community is largely about a shared culture of INDEPENDENT developers 
+The EXTENDED Community, beyond merely those individuals who are [Contributing](Contributing.md) to CloudKernelOS, is about different shared cultures of different open source communities of INDEPENDENT developers 
