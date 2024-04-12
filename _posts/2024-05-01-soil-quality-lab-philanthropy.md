@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sequester Carbon As Life To Optimize Philanthropic Impact"
-date:   2024-03-29 4:30:00
+date:   2024-05-01 4:30:00
 categories: template
 ---
 
